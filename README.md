@@ -112,8 +112,8 @@ The platform is designed to be:
 ![portfolio](https://github.com/Kishan269565/Online-Educational-Website/blob/main/Picture7.jpg)
 ![portfolio](https://github.com/Kishan269565/Online-Educational-Website/blob/main/Picture6.png)
 ![portfolio](https://github.com/Kishan269565/Online-Educational-Website/blob/main/Picture2.jpg)
-<img src="https://raw.githubusercontent.com/Kishan269565/Online-Educational-Website/main/Picture5.jpg" alt="portfolio" height="712" width="360"/>
-<img src="https://raw.githubusercontent.com/Kishan269565/Online-Educational-Website/main/Picture5.jpg" alt="portfolio" height="712" width="360"/>
+<img src="https://raw.githubusercontent.com/Kishan269565/Online-Educational-Website/main/Picture3.jpg" alt="portfolio" height="712" width="360"/>
+<img src="https://raw.githubusercontent.com/Kishan269565/Online-Educational-Website/main/Picture4.jpg" alt="portfolio" height="712" width="360"/>
 <img src="https://raw.githubusercontent.com/Kishan269565/Online-Educational-Website/main/Picture5.jpg" alt="portfolio" height="712"  width="360"/>
 
 

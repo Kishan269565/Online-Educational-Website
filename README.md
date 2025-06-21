@@ -109,12 +109,10 @@ The platform is designed to be:
 ## 📸 Snapshots
 
 ![portfolio](https://github.com/Kishan269565/Online-Educational-Website/blob/main/Picture1.jpg)
-![portfolio](https://github.com/Kishan269565/Online-Educational-Website/blob/main/Picture6.jpg)
-![portfolio](https://github.com/Kishan269565/Online-Educational-Website/blob/main/Picture2.jpg)
-![portfolio](https://github.com/Kishan269565/Online-Educational-Website/blob/main/Picture3.jpg)
-![portfolio](https://github.com/Kishan269565/Online-Educational-Website/blob/main/Picture4.jpg)
+![portfolio](https://github.com/Kishan269565/Online-Educational-Website/blob/main/Picture7.png)
+![portfolio](https://github.com/Kishan269565/Online-Educational-Website/blob/main/Picture6.jpg)![portfolio](https://github.com/Kishan269565/Online-Educational-Website/blob/main/Picture2.jpg)
+![portfolio](https://github.com/Kishan269565/Online-Educational-Website/blob/main/Picture3.jpg![portfolio](https://github.com/Kishan269565/Online-Educational-Website/blob/main/Picture4.jpg)
 ![portfolio](https://github.com/Kishan269565/Online-Educational-Website/blob/main/Picture5.jpg)
-![portfolio](https://github.com/Kishan269565/Online-Educational-Website/blob/main/Picture7.jpg)
 
 ## ✅ Conclusion
 
